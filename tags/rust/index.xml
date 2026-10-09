@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rust on Yuma Mihira</title><link>https://yuma.cloud/tags/rust/</link><description>Recent content in Rust on Yuma Mihira</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 09 Oct 2026 20:00:00 +0900</lastBuildDate><atom:link href="https://yuma.cloud/tags/rust/index.xml" rel="self" type="application/rss+xml"/><item><title>Robotics x Cloud x メディアストリーミングなエンジニアになって、MoQROS を作った話</title><link>https://yuma.cloud/post/2026/10/09/moqros/</link><pubDate>Fri, 09 Oct 2026 20:00:00 +0900</pubDate><guid>https://yuma.cloud/post/2026/10/09/moqros/</guid><description>&lt;p>気づけば WebRTC と付き合い始めて6〜7年ほどになりました。
+もともとロボットのソフトウェアエンジニアだったはずが、いつの間にかメディアストリーミングの世界にもどっぷり浸かっています。&lt;/p>
+&lt;p>この記事では、そんな私のここ数年の変化を振り返りつつ、
+最近ほぼ Vibe Coding で作ったライブラリ、MoQROS を紹介します。&lt;/p></description></item></channel></rss>
