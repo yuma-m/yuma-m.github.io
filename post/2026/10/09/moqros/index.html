@@ -40,7 +40,7 @@ Media over QUIC (MoQ) のような新しい技術の標準化に関わってい�
 ソフトウェアエンジニアの役割そのものが変わりつつあるのを感じます。</p><p>ただ、悪いことばかりではありません。
 副産物として、趣味の個人開発のハードルがぐっと下がりました。
 以前は、平日の夜や週末の限られた時間で新しい技術を試そうとしても、なかなか億劫で手が出なかったのですが、
-今では時間がなくても、とりあえず動く何かを作るのが簡単になりました。</p><h2 id=moqros>MoQROS</h2><p>ということで、ほぼ Vibe Coding で開発したライブラリ <a href=https://github.com/yuma-m/moqros>MoQROS</a> を紹介します。</p><p><img src=https://github.com/yuma-m/moqros/raw/main/logo.png alt="MoQROS Logo"></p><p>MoQROS は、ROS 2 の画像トピックを MoQ でストリーミングできる Rust 製のライブラリです。
+今では時間がなくても、とりあえず動く何かを作るのが簡単になりました。</p><h2 id=moqros>MoQROS</h2><p>ということで、ほぼ Vibe Coding で開発したライブラリ <a href=https://github.com/yuma-m/moqros>MoQROS</a> を紹介します。</p><p><img src=https://github.com/yuma-m/moqros/raw/main/images/logo.png alt="MoQROS Logo"></p><p>MoQROS は、ROS 2 の画像トピックを MoQ でストリーミングできる Rust 製のライブラリです。
 まさに Robotics x メディアストリーミングという、自分の専門領域のど真ん中ですね。
 GitHub で公開しているほか、<a href=https://crates.io/crates/moqros>crates.io</a> でも公開しています。</p><h3 id=何ができるの>何ができるの？</h3><p>MoQROS は、ROS 2 の <code>sensor_msgs/Image</code> を受け取って VP8 または H.264 でエンコードし、MoQ のリレーサーバーに配信します。
 配信フォーマットには <a href=https://docs.rs/hang>hang</a> を使っているので、
