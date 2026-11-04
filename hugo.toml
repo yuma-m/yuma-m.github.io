@@ -37,7 +37,7 @@ post = "/:section/:year/:month/:day/:filename/"
 [params]
 title = "Yuma Mihira"
 author = "Yuma Mihira"
-description = "IoT & Robotics Engineer"
+description = "Robotics Software Engineer"
 profilePicture = "images/yuma-m.jpg"
 keywords = ""
 favicon = "favicons/"

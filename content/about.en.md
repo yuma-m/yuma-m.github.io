@@ -7,7 +7,7 @@ Enhance the power of music with technologies!
 
 ## whoami
 
-IoT and Robotics engineer in Japan.
+Robotics software engineer in Japan.
 
 ## Skills
 
