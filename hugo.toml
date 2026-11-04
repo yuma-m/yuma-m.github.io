@@ -1,0 +1,145 @@
+baseURL = "https://yuma.cloud/"
+defaultContentLanguage = "ja"
+title = "Yuma Mihira"
+theme = "anatole"
+summarylength = 10
+enableEmoji = true
+enableRobotsTXT = true
+ignoreLogs = ["warning-goldmark-raw-html"]
+
+
+[languages.ja]
+label = "日本語"
+locale = "ja-jp"
+weight = 1
+
+[languages.en]
+label = "English"
+locale = "en-us"
+weight = 2
+# Only Works and About are translated; other en pages are not rendered
+disableKinds = ["404"]
+
+[markup.highlight]
+  noClasses = false
+  codeFences = true
+  guessSyntax = true
+
+[services]
+  [services.disqus]
+  shortname = "yuma-m"
+  [services.googleAnalytics]
+  id = "G-7YP6BJWVK9"
+
+[permalinks]
+post = "/:section/:year/:month/:day/:filename/"
+
+[params]
+title = "Yuma Mihira"
+author = "Yuma Mihira"
+description = "IoT & Robotics Engineer"
+profilePicture = "images/yuma-m.jpg"
+keywords = ""
+favicon = "favicons/"
+mainSections = ["post"]
+images = ["images/yuma-m.jpg"]
+doNotLoadAnimations = true
+indexDateFormat = "2006/01/02"
+listDateFormat = "2006/01/02"
+singleDateFormat = "2006/01/02"
+reversepagetitle = true
+
+# Sub-sites hosted under this domain by other GitHub Pages repositories
+extraSitemapPaths = ["rust-training/", "moq-training/", "moqros/"]
+extraSitemapIndexes = ["rust-training/sitemap.xml", "moq-training/sitemap.xml"]
+
+# Google Site Verify
+googleSiteVerify = "googlee2a23a0ca75554a9"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/yuma-mihira/"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/yuma-m"
+
+[[params.socialIcons]]
+icon = "fab fa-soundcloud"
+title = "SoundCloud"
+url = "https://soundcloud.com/yura-yura-3"
+
+
+[[languages.en.menus.main]]
+name = "Home"
+identifier = "home"
+weight = 100
+url = "/"
+
+[[languages.en.menus.main]]
+name = "Posts"
+identifier = "posts"
+weight = 200
+url = "/post/"
+
+[[languages.en.menus.main]]
+name = "Works"
+identifier = "works"
+weight = 300
+url = "/en/works/"
+
+[[languages.en.menus.main]]
+name = "Songs"
+identifier = "songs"
+weight = 400
+url = "/songs/"
+
+[[languages.en.menus.main]]
+name = "Activities"
+identifier = "activities"
+weight = 500
+url = "/activities/"
+
+[[languages.en.menus.main]]
+name = "About"
+identifier = "about"
+weight = 600
+url = "/en/about/"
+
+[[languages.ja.menus.main]]
+name = "Home"
+identifier = "home"
+weight = 100
+url = "/"
+
+[[languages.ja.menus.main]]
+name = "Posts"
+identifier = "posts"
+weight = 200
+url = "/post/"
+
+[[languages.ja.menus.main]]
+name = "Works"
+identifier = "works"
+weight = 300
+url = "/works/"
+
+[[languages.ja.menus.main]]
+name = "Songs"
+identifier = "songs"
+weight = 400
+url = "/songs/"
+
+[[languages.ja.menus.main]]
+name = "Activities"
+identifier = "activities"
+weight = 500
+url = "/activities/"
+
+[[languages.ja.menus.main]]
+name = "About"
+identifier = "about"
+weight = 600
+url = "/about/"
