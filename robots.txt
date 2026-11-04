@@ -1,5 +1,0 @@
-User-agent: *
-
-Sitemap: https://yuma.cloud/sitemap.xml
-Sitemap: https://yuma.cloud/rust-training/sitemap.xml
-Sitemap: https://yuma.cloud/moq-training/sitemap.xml
