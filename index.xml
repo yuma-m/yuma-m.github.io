@@ -1,7 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yuma Mihira</title><link>https://yuma.cloud/</link><description>Recent content on Yuma Mihira</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 19 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yuma.cloud/index.xml" rel="self" type="application/rss+xml"/><item><title>About Yuma Mihira</title><link>https://yuma.cloud/about/</link><pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate><guid>https://yuma.cloud/about/</guid><description>&lt;p&gt;Enhance the power of music with technologies!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yuma Mihira</title><link>https://yuma.cloud/</link><description>Recent content on Yuma Mihira</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><lastBuildDate>Tue, 19 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yuma.cloud/index.xml" rel="self" type="application/rss+xml"/><item><title>About Yuma Mihira</title><link>https://yuma.cloud/about/</link><pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate><guid>https://yuma.cloud/about/</guid><description>&lt;p&gt;テクノロジーで音楽の力を高める！&lt;/p&gt;
 &lt;h2 id="whoami"&gt;whoami&lt;/h2&gt;
-&lt;p&gt;IoT and Robotics engineer in Japan.&lt;/p&gt;</description></item><item><title>Works</title><link>https://yuma.cloud/works/</link><pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate><guid>https://yuma.cloud/works/</guid><description>&lt;h2 id="moqros"&gt;MoQROS&lt;/h2&gt;
-&lt;p&gt;Rust library to stream ROS 2 topics over MoQ (Media over QUIC), with a browser viewer.&lt;/p&gt;</description></item><item><title>ロボティクスクラウド WebRTC ソフトウェアエンジニアな私が MoQROS を作った話</title><link>https://yuma.cloud/post/2026/10/09/moqros/</link><pubDate>Fri, 09 Oct 2026 20:00:00 +0900</pubDate><guid>https://yuma.cloud/post/2026/10/09/moqros/</guid><description>&lt;p&gt;気づけば WebRTC と付き合い始めて6〜7年ほどになりました。
+&lt;p&gt;日本で働く IoT・ロボティクスエンジニアです。&lt;/p&gt;
+&lt;h2 id="スキル"&gt;スキル&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;IoT / ロボティクスシステムのアーキテクチャ設計とソフトウェア開発&lt;/li&gt;
+&lt;li&gt;Python / C++ / Go / TypeScript&lt;/li&gt;
+&lt;li&gt;Linux (Debian / Ubuntu)&lt;/li&gt;
+&lt;li&gt;AWS&lt;/li&gt;
+&lt;li&gt;ROS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="経歴"&gt;経歴&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;ロボティクスソフトウェアエンジニア @ ウーブン・バイ・トヨタ株式会社 (2023/12 - )&lt;/li&gt;
+&lt;li&gt;IoT スペシャリスト ソリューションアーキテクト @ アマゾン ウェブ サービス ジャパン (2019/08 - 2023/12)&lt;/li&gt;
+&lt;li&gt;ロボティクスソフトウェアエンジニア @ GROOVE X 株式会社 (2016/01 - 2019/08)&lt;/li&gt;
+&lt;li&gt;ソフトウェアエンジニア @ ソフトバンク株式会社 (2014/04 - 2016/01)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="趣味"&gt;趣味&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://yuma.cloud/songs/"&gt;作曲&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;キーボード・ピアノの演奏&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="注記"&gt;注記&lt;/h4&gt;
+&lt;p&gt;本サイトの投稿は個人の見解であり、所属する組織を代表するものではありません。&lt;/p&gt;</description></item><item><title>Works</title><link>https://yuma.cloud/works/</link><pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate><guid>https://yuma.cloud/works/</guid><description>&lt;h2 id="moqros"&gt;MoQROS&lt;/h2&gt;
+&lt;p&gt;ROS 2 のトピックを MoQ (Media over QUIC) で配信する Rust ライブラリです。ブラウザ用のビューアも付属しています。&lt;/p&gt;</description></item><item><title>ロボティクスクラウド WebRTC ソフトウェアエンジニアな私が MoQROS を作った話</title><link>https://yuma.cloud/post/2026/10/09/moqros/</link><pubDate>Fri, 09 Oct 2026 20:00:00 +0900</pubDate><guid>https://yuma.cloud/post/2026/10/09/moqros/</guid><description>&lt;p&gt;気づけば WebRTC と付き合い始めて6〜7年ほどになりました。
 もともとロボットのソフトウェアエンジニアだったはずが、いつの間にかメディアストリーミングの世界にもどっぷり浸かっています。&lt;/p&gt;
 &lt;p&gt;この記事では、そんな私のここ数年の変化を振り返りつつ、
 最近ほぼ Vibe Coding で作ったライブラリ、MoQROS を紹介します。&lt;/p&gt;</description></item><item><title>エンジニア的に便利な英語表現 (問題、技術選定など)</title><link>https://yuma.cloud/post/2025/08/17/useful-english/</link><pubDate>Sun, 17 Aug 2025 12:00:00 +0900</pubDate><guid>https://yuma.cloud/post/2025/08/17/useful-english/</guid><description>&lt;p&gt;多国籍の開発チームで働き始めて1年半。
@@ -298,20 +320,4 @@ src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/638
 &lt;h3 id="cosmic-time-scale-名義"&gt;Cosmic Time Scale 名義&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://soundcloud.com/cosmictimescale"&gt;SoundCloud&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Owls</title><link>https://yuma.cloud/owl/</link><pubDate>Sat, 14 Dec 2013 00:00:00 +0000</pubDate><guid>https://yuma.cloud/owl/</guid><description>&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://yuma.cloud/owl/#%e3%83%88%e3%83%94%e3%83%83%e3%82%af%e3%81%b5%e3%81%8f%e3%82%8d%e3%81%86"&gt;トピックふくろう&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://yuma.cloud/owl/#%e3%83%9e%e3%83%ab%e3%82%b3%e3%83%95%e3%81%b5%e3%81%8f%e3%82%8d%e3%81%86"&gt;マルコフふくろう&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id="トピックふくろう"&gt;トピックふくろう&lt;/h2&gt;
-&lt;p&gt;トピックふくろう(&lt;a href="https://twitter.com/topic_owl"&gt;@topic_owl&lt;/a&gt;)とは、 &lt;a href="https://twitter.com/yu_ma_m"&gt;@yu_ma_m&lt;/a&gt;が作ったトピック推定のできるBOTです。&lt;a href="https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation"&gt;潜在的ディリクレ配分法&lt;/a&gt;という手法を用いてトピックを推定し、返事を生成しています。&lt;/p&gt;
-&lt;h4 id="主な機能"&gt;主な機能&lt;/h4&gt;
-&lt;p&gt;1.ツイッターのトレンドワードをつぶやきます。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;日本のツイッターのトレンドを検索、それっぽい文を探してツイートします。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;2.リプライには返事をします。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;リプライを受け取ると、その中の単語について検索しトピックを推定、トピックに合った文章を探し出し返信します。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;3.最新のニュース記事をつぶやきます。&lt;/p&gt;</description></item></channel></rss>
+&lt;/ul&gt;</description></item></channel></rss>
